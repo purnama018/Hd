@@ -1,8 +1,8 @@
 const { Function, Scraper } = new (require('@neoxr/neoxr-js'))
 // Owner number
-global.owner = '628978613993'
+global.owner = '6285724966341'
 // Owner name
-global.owner_name = '9knatzz'
+global.owner_name = 'SetkazBotz'
 // Database name (Default: database)
 global.database = 'bot'
 // Maximum upload file size limit (Default : 100 MB)
@@ -26,9 +26,9 @@ global.timezone = 'Asia/Jakarta'
 // Bot version
 global.version = '2.2.2',
 // Bot name
-global.botname = `© 9knatzz v${global.version} (Public Bot)`
+global.botname = `© SetkazBotz v${global.version} (Public Bot)`
 // Footer text
-global.footer = 'Simple Bot WhatsApp By 9knatz ッ'
+global.footer = 'Simple Bot WhatsApp By SetkazBotz ッ'
 // Scraper
 global.scrap = Scraper
 // Function
